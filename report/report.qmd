@@ -1,0 +1,22 @@
+---
+title: "INSERT TITLE"
+shorttitle: "INSERT TITLE"
+shortauthors: Candidate No. 291723
+author:
+  - name: "Candidate Number: 291723"
+wordcount: XXXX
+reference-section-title: Bibliography
+bibliography: bibliography.bib
+csl: https://www.zotero.org/styles/american-journal-of-sociology
+format:
+  aog-article-pdf:
+    keep-tex: false
+---
+
+# Features & Labels
+
+# Preprocessing
+
+# Model
+
+# Generalisability

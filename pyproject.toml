@@ -1,0 +1,10 @@
+[project]
+name = "machine-learning-coursework"
+version = "0.1.0"
+requires-python = ">= 3.12.10"
+dependencies = [
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+]
