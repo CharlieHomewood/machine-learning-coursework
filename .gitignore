@@ -2,3 +2,6 @@
 *.pyo
 __pycache__/
 data/
+figures/
+metadata/
+.venv/
